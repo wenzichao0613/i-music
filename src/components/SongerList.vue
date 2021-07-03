@@ -152,11 +152,13 @@ export default {
           font-weight: 400;
           cursor: pointer;
           color: #000;
+          text-align: left;
         }
         span {
           font-size: 12px;
           font-weight: 400;
           color: #888;
+          text-align: left;
           display: inline-block;
         }
 
